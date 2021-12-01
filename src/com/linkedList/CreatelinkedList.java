@@ -32,6 +32,7 @@ class ListNode{
         ListNode listNode=new ListNode(newval);
         if (this.next==null){
             this.next=listNode;
+            // bbnb
         }else {
             this.next.add(newval);
         }
