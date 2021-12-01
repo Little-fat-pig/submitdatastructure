@@ -27,7 +27,7 @@ class ListNode{
     ListNode(int data){
         this.data=data;
     }
-
+///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
     public void add(int newval){
         ListNode listNode=new ListNode(newval);
         if (this.next==null){
