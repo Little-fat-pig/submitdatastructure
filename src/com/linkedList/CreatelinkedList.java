@@ -28,6 +28,7 @@ class ListNode{
         this.data=data;
     }
 ///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
+    //https://github.com/zxl1104900131/submitdatastructure.git
     public void add(int newval){
         ListNode listNode=new ListNode(newval);
         if (this.next==null){
