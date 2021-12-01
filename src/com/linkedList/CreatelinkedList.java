@@ -27,7 +27,7 @@ class ListNode{
     ListNode(int data){
         this.data=data;
     }
-///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
+///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  永不过期token   使用所有的资源库
     //https://github.com/zxl1104900131/submitdatastructure.git
     public void add(int newval){
         ListNode listNode=new ListNode(newval);
